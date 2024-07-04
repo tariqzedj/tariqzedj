@@ -55,6 +55,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Microsoft Windows Defender and Firewall for Beginners
+- Microsoft Windows Defender and Firewall
 - Detection Lab
 - SOC Automation Project
