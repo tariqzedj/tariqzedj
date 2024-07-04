@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I am a university student with a profound interest in technology and a dedication to solving complex problems.
+I am a university student with a deep passion for technology and a commitment to finding solutions for challenging issues.
 
 ## Objective
 
